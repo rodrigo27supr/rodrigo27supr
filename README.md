@@ -32,8 +32,9 @@ Proyecto académico de consolidación de bases en Python con scripts prácticos 
 ---
 
 ## Certificaciones
-[![Python Essentials 1](python-essentials-1.1.png)](https://www.credly.com/badges/252a308e-7576-43be-9e3d-40daf0aea0d9/public_url)
----
+<a href="https://www.credly.com/badges/252a308e-7576-43be-9e3d-40daf0aea0d9/public_url">
+  <img src="python-essentials-1.1.png" alt="Python Essentials 1" width="150" />
+</a>---
 
 ## Contacto
 *   **LinkedIn:** [Rodrigo Cuéllar Londoño](https://www.linkedin.com/in/rodrigo-cu%C3%A9llar-londo%C3%B1o-396223215/)
