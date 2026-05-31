@@ -32,7 +32,7 @@ Proyecto académico de consolidación de bases en Python con scripts prácticos 
 ---
 
 ## Certificaciones
-[![Python Essentials 1](https://images.credly.com/size/340x340/images/252a308e-7576-43be-9e3d-40daf0aea0d9/image.png)](https://www.credly.com/badges/252a308e-7576-43be-9e3d-40daf0aea0d9/public_url)
+[![https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png](https://www.credly.com/badges/252a308e-7576-43be-9e3d-40daf0aea0d9/public_url)
 
 ---
 
