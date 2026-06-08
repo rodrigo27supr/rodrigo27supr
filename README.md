@@ -32,9 +32,14 @@ Proyecto académico de consolidación de bases en Python con scripts prácticos 
 ---
 
 ## Certificaciones
-<a href="https://www.credly.com/badges/252a308e-7576-43be-9e3d-40daf0aea0d9/public_url">
-  <img src="python-essentials-1.1.png" alt="Python Essentials 1" width="150" />
-</a>
+<div style="display: flex; gap: 20px;">
+  <a href="https://www.credly.com/badges/252a308e-7576-43be-9e3d-40daf0aea0d9/public_url">
+    <img src="python-essentials-1.1.png" alt="Python Essentials 1" width="120" />
+  </a>
+  <a href="https://www.credly.com/badges/37ced5d2-c727-4158-bb23-d8cf0bd5152d/linked_in_profile">
+    <img src="aws-academy-graduate-cloud-foundations-training-bad.png" alt="AWS Academy" width="120" />
+  </a>
+</div>
 
 ---
 ## Contacto
