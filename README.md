@@ -5,13 +5,19 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en el IES Gabriel García
 ---
 
 ## Tecnologías y Herramientas
-*   **Lenguajes:** Java, Python, SQL, JavaScript.
-*   **Desarrollo:** APIs REST, JSON, GUI con CustomTkinter.
-*   **Herramientas & DevOps:** Git, GitHub Actions, Gestión de Secrets.
+*   **Lenguajes:** Java, Python, SQL, JavaScript, TypeScript.
+*   **Desarrollo:** Spring Boot, Astro, Tailwind CSS, PostgreSQL, APIs REST, JSON, GUI con CustomTkinter.
+*   **IA:** agentes de IA (Gemini, Groq, OpenRouter) y desarrollo asistido con Claude Code.
+*   **Herramientas & DevOps:** Git, GitHub Actions, Render, Vercel, Neon, Gestión de Secrets.
 
 ---
 
 ## Proyectos Destacados
+
+### VexelByte (Java + Astro)
+Medio de noticias de hardware, móviles y periféricos **en producción** que se escribe solo con agentes de IA: leen las fuentes, eligen las noticias, las redactan en español contrastándolas con varios medios y validan las fotos de prensa. Lo dirigí como Tech Lead: definí las reglas, audité cada entrega y elegí y configuré todos los servicios (Render, Neon, Vercel, Gemini, Tavily, Pexels y cron-job.org). Spring Boot 4, Astro 7 y PostgreSQL.
+*   [Ver la web: www.vexelbyte.com](https://www.vexelbyte.com)
+*   [Ver VexelByte en GitHub](https://github.com/rodrigo27supr/vexelbyte-web)
 
 ### LovaGame (Java)
 Bot inteligente que rastrea internet para encontrar ofertas de videojuegos gratuitos y notificarlas automáticamente a través de Telegram. Enfocado en la automatización con GitHub Actions y el consumo de APIs.
