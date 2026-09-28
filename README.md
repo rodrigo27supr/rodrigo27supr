@@ -5,8 +5,8 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en el IES Gabriel García
 ---
 
 ## Tecnologías y Herramientas
-*   **Lenguajes:** Java, Python, SQL, JavaScript, TypeScript.
-*   **Desarrollo:** Spring Boot, Astro, Tailwind CSS, PostgreSQL, APIs REST, JSON, GUI con CustomTkinter.
+*   **Lenguajes:** Java, Python, SQL, JavaScript.
+*   **Desarrollo:** APIs REST, JSON, GUI con CustomTkinter.
 *   **IA:** agentes de IA (Gemini, Groq, OpenRouter) y desarrollo asistido con Claude Code.
 *   **Herramientas & DevOps:** Git, GitHub Actions, Render, Vercel, Neon, Gestión de Secrets.
 
