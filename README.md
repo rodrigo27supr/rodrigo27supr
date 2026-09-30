@@ -37,6 +37,7 @@ Mi primer proyecto en Java: bot que consume APIs REST y avisa por Telegram, auto
 
 ### [LovaScaler](https://github.com/rodrigo27supr/LovaScaler)
 Aplicación de escritorio que escala imágenes con IA (Real-ESRGAN), con procesamiento por lotes e interfaz moderna en modo oscuro.
+
 `Python` `CustomTkinter` `Real-ESRGAN`
 
 ---
