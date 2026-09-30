@@ -4,7 +4,7 @@
 
 Me estoy formando como desarrollador desde la base: Java, Python, SQL y desarrollo web, con cursos oficiales y ejercicios propios. Además me gusta plantearme proyectos que se escapan de lo que ya sé, y aprender por el camino cómo se trabaja en un entorno más real y cómo sacar partido a los agentes de IA.
 
-[LinkedIn](https://www.linkedin.com/in/rodrigo-cu%C3%A9llar-londo%C3%B1o-396223215/)
+[LinkedIn](https://www.linkedin.com/in/rodrigo-cuellar-londono/)
 
 ---
 
