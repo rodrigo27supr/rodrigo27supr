@@ -1,55 +1,39 @@
-# ¡Hola! Soy Rodrigo Cuéllar Londoño
+# Rodrigo Cuéllar Londoño
 
-Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en el IES Gabriel García Márquez, Madrid. Apasionado por la programación, la lógica y la creación de herramientas que resuelven problemas reales. Actualmente enfocado en Java y tecnologías web.
+**Estudiante de Desarrollo de Aplicaciones Web (DAW)** · Madrid
 
----
+Construyo productos reales y los llevo hasta producción. Trabajo con agentes de IA: yo defino el producto, dirijo el trabajo y audito cada resultado. Ahora mismo, enfocado en Java y desarrollo web.
 
-## Tecnologías y Herramientas
-*   **Lenguajes:** Java, Python, SQL, JavaScript.
-*   **Desarrollo:** APIs REST, JSON, GUI con CustomTkinter.
-*   **IA:** agentes de IA (Gemini, Groq, OpenRouter) y desarrollo asistido con Claude Code.
-*   **Herramientas & DevOps:** Git, GitHub Actions, Render, Vercel, Neon, Gestión de Secrets.
+[LinkedIn](https://www.linkedin.com/in/rodrigo-cu%C3%A9llar-londo%C3%B1o-396223215/) · [VexelByte en producción](https://www.vexelbyte.com)
 
 ---
 
-## Proyectos Destacados
+## Proyectos
 
-### VexelByte (Java + Astro)
-Medio de noticias de hardware, móviles y periféricos **en producción** que se escribe solo con agentes de IA: leen las fuentes, eligen las noticias, las redactan en español contrastándolas con varios medios y validan las fotos de prensa. Lo dirigí como Tech Lead: definí las reglas, audité cada entrega y elegí y configuré todos los servicios (Render, Neon, Vercel, Gemini, Tavily, Pexels y cron-job.org). Spring Boot 4, Astro 7 y PostgreSQL.
-*   [Ver la web: www.vexelbyte.com](https://www.vexelbyte.com)
-*   [Ver VexelByte en GitHub](https://github.com/rodrigo27supr/vexelbyte-web)
+### [VexelByte](https://github.com/rodrigo27supr/vexelbyte-web) · en producción
+Medio de noticias de hardware que se escribe solo: agentes de IA leen fuentes especializadas, contrastan cada noticia con otros medios y redactan el artículo citando sus fuentes. Lo dirigí como Tech Lead: definí las reglas, audité cada entrega y elegí y configuré los servicios.
+`Java 21` `Spring Boot 4` `Astro 7` `PostgreSQL 18` `Docker` · [www.vexelbyte.com](https://www.vexelbyte.com)
 
-### LovaGame (Java)
-Bot inteligente que rastrea internet para encontrar ofertas de videojuegos gratuitos y notificarlas automáticamente a través de Telegram. Enfocado en la automatización con GitHub Actions y el consumo de APIs.
-*   [Ver LovaGame en GitHub](https://github.com/rodrigo27supr/LovaGame)
+### [LovaGame](https://github.com/rodrigo27supr/LovaGame)
+Mi primer proyecto en Java: bot que consume APIs REST y avisa por Telegram, automatizado con GitHub Actions.
+`Java` `REST` `GitHub Actions` `Telegram`
 
-### LovaScaler Pro (Python)
-Herramienta de escritorio avanzada que utiliza Inteligencia Artificial (Real-ESRGAN) para escalar imágenes sin perder calidad. Cuenta con procesamiento por lotes, interfaz moderna en modo oscuro y gestión de colas.
-*   [Ver LovaScaler Pro en GitHub](https://github.com/rodrigo27supr/LovaScaler)
+### [LovaScaler](https://github.com/rodrigo27supr/LovaScaler)
+Aplicación de escritorio que escala imágenes con IA (Real-ESRGAN), con procesamiento por lotes e interfaz moderna en modo oscuro.
+`Python` `CustomTkinter` `Real-ESRGAN`
 
-### Master-Java-Dumis (Java)
-*En progreso (Verano 2026):* Un repositorio dedicado a alcanzar un dominio avanzado del lenguaje Java. ¡En constante desarrollo!
-*   [Ver Master-Java-Dumis en GitHub](https://github.com/rodrigo27supr/Master-Java-Dumis)
-
-### Fundamentos de Python 1 - Cisco
-Proyecto académico de consolidación de bases en Python con scripts prácticos y lógica de programación.
-*   [Ver repositorio](https://github.com/rodrigo27supr/Fundamentos-de-Python-1-Cisco)
+### [Fundamentos de Python 1 (Cisco)](https://github.com/rodrigo27supr/Fundamentos-de-Python-1-Cisco)
+Ejercicios prácticos del curso de Cisco Networking Academy.
+`Python`
 
 ---
+
+## Con qué trabajo
+- **Lenguajes:** Java, Python, SQL, JavaScript
+- **Desarrollo:** APIs REST, JSON, Spring Boot, Astro
+- **IA:** agentes de IA (Gemini, Groq, OpenRouter) y desarrollo asistido con Claude Code
+- **Herramientas y despliegue:** Git, GitHub Actions, Docker, Render, Vercel, Neon
 
 ## Certificaciones
-<div style="display: flex; gap: 20px;">
-  <a href="https://www.credly.com/badges/252a308e-7576-43be-9e3d-40daf0aea0d9/public_url">
-    <img src="python-essentials-1.1.png" alt="Python Essentials 1" width="120" />
-  </a>
-  <a href="https://www.credly.com/badges/37ced5d2-c727-4158-bb23-d8cf0bd5152d/linked_in_profile">
-    <img src="aws-academy-graduate-cloud-foundations-training-bad.png" alt="AWS Academy" width="120" />
-  </a>
-</div>
-
----
-## Contacto
-*   **LinkedIn:** [Rodrigo Cuéllar Londoño](https://www.linkedin.com/in/rodrigo-cu%C3%A9llar-londo%C3%B1o-396223215/)
-*   **Ubicación:** Madrid, España 🇪🇸
-
-*¡Siempre abierto a aprender nuevas tecnologías y colaborar en proyectos interesantes!*
+<a href="https://www.credly.com/badges/252a308e-7576-43be-9e3d-40daf0aea0d9/public_url"><img src="python-essentials-1.1.png" alt="Python Essentials 1 · Cisco" width="120" /></a>
+<a href="https://www.credly.com/badges/37ced5d2-c727-4158-bb23-d8cf0bd5152d/linked_in_profile"><img src="aws-academy-graduate-cloud-foundations-training-bad.png" alt="AWS Academy Cloud Foundations" width="120" /></a>
