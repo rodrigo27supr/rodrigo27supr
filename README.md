@@ -21,6 +21,11 @@ Me estoy formando como desarrollador desde la base: Java, Python, SQL y desarrol
 
 ## Proyectos
 
+### [VexelByte](https://github.com/rodrigo27supr/vexelbyte-web) · en producción
+Medio de noticias de hardware que se escribe solo: agentes de IA leen fuentes especializadas, contrastan cada noticia con otros medios y redactan el artículo citando sus fuentes.
+**Cómo lo hice:** un proyecto que se escapa de mi nivel, para aprender a trabajar con agentes de IA en un entorno real. El código lo generó un agente; yo definí las reglas, audité cada entrega y elegí y configuré los servicios de despliegue.
+`Java 21` `Spring Boot 4` `Astro 7` `PostgreSQL 18` `Docker` · [www.vexelbyte.com](https://www.vexelbyte.com)
+
 ### [LovaGame](https://github.com/rodrigo27supr/LovaGame)
 Mi primer proyecto en Java: bot que consume APIs REST y avisa por Telegram, automatizado con GitHub Actions.
 **Cómo lo hice:** escribí el código paso a paso yo mismo; la IA me sirvió de mentora para entender el porqué de cada parte.
@@ -29,11 +34,6 @@ Mi primer proyecto en Java: bot que consume APIs REST y avisa por Telegram, auto
 ### [LovaScaler](https://github.com/rodrigo27supr/LovaScaler)
 Aplicación de escritorio que escala imágenes con IA (Real-ESRGAN), con procesamiento por lotes e interfaz moderna en modo oscuro.
 `Python` `CustomTkinter` `Real-ESRGAN`
-
-### [VexelByte](https://github.com/rodrigo27supr/vexelbyte-web) · en producción
-Medio de noticias de hardware que se escribe solo: agentes de IA leen fuentes especializadas, contrastan cada noticia con otros medios y redactan el artículo citando sus fuentes.
-**Cómo lo hice:** un proyecto que se escapa de mi nivel, para aprender a trabajar con agentes de IA en un entorno real. El código lo generó un agente; yo definí las reglas, audité cada entrega y elegí y configuré los servicios de despliegue.
-`Java 21` `Spring Boot 4` `Astro 7` `PostgreSQL 18` `Docker` · [www.vexelbyte.com](https://www.vexelbyte.com)
 
 ---
 
